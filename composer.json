@@ -12,7 +12,8 @@
         "iron-io/iron_mq": "1.*",
         "mews/purifier": "1.0.2",
         "guzzlehttp/guzzle": "~4.0",
-        "thapp/jitimage": "dev-master"
+        "thapp/jitimage": "dev-master",
+        "ext-mcrypt": "*"
 	},
     "require-dev": {
       "heroku/heroku-buildpack-php": "*"
