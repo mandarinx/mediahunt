@@ -8,7 +8,7 @@
 	  	"anhskohbo/no-captcha": "1.2.*",
         "roumen/sitemap": "2.4.15",
         "roumen/feed": "2.8.1",
-		"artdarek/oauth-4-laravel": "dev-master",
+		"artdarek/oauth-4-laravel": "*",
         "iron-io/iron_mq": "1.*",
         "mews/purifier": "1.0.2",
         "guzzlehttp/guzzle": "~4.0",
